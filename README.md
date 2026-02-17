@@ -1,6 +1,6 @@
 # Hey, I'm Winnie
 ## 💫 About Me
-🔐 Security engineer most skilled in automation and security specialized data engineering. <br>🖱️ Currently working on visualizing malicious URL data from URLHaus and connecting it to VirusTotal for more robust data.<br>❔ Ask me (almost) anything! If I don't know the answer, I might know who to ask.
+🔐 Security engineer most skilled in automation and security specialized data engineering. <br>🖱️ Currently working on Cadence, a [privacy-first personal health logging application]((https://theselfstudy.github.io/cadence/dashboard/)) designed to help individuals better understand patterns in their body over time.<br>❔ Ask me (almost) anything! If I don't know the answer, I might know who to ask.
 
 
 ## 💻 Tech Stack:
